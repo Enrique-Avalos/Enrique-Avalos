@@ -15,7 +15,16 @@ Here are some ideas to get you started:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
-  <body style="font-family: 'Montserrat', Arial, sans-serif;" text-align: center >
+  <body>
     <h1 align="center"><b>Hola! Bienvenido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <br>
+    ## Valores
+    - Responsable
+    - Respetuoso
+    - Amable
+    - Honesto
+    - Perseverante
+    
+    
   </body>
 </html>
