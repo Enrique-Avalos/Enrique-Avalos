@@ -21,10 +21,6 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body style="font-family: 'Montserrat', Arial, sans-serif;" text-align: center >
-    <h2>Bienvenido</h2>
-    <p>Nombre: Luis Enrique Colocho Avalos <br>
-       Ingeniero en Desarrollo de software <br>
-       Especialidad: ?
-    </p>
+    <h1 align="center"><b>Hola! Mi Nombre Luis Enrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   </body>
 </html>
