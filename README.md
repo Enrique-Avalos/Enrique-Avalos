@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
-  <body style="font-family: 'Montserrat', Arial, sans-serif;">
+  <body style="font-family: 'Montserrat', Arial, sans-serif;" text-align: center >
     <h2>Bienvenido</h2>
     <p>Nombre: Luis Enrique Colocho Avalos <br>
        Ingeniero en Desarrollo de software <br>
