@@ -17,8 +17,10 @@ Here are some ideas to get you started:
   </head>
   <body>
     <h1 align="center"><b>Hola! Bienvenido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <p>Mi Nombre es Luis Enrique Colocho Avalos futuro Ingeniero en desarrollo de Software.</p>
+    
   
-    ## Valores
+    👤 Valores
     - Responsable
     - Respetuoso
     - Amable
