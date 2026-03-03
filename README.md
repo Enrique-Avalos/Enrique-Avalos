@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     - Amable
     - Honesto
     - Perseverante
+    <br><br>
     
     
   </body>
