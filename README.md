@@ -20,16 +20,16 @@ Here are some ideas to get you started:
     <p>Mi Nombre es Luis Enrique Colocho Avalos futuro Ingeniero en desarrollo de Software.</p>
     
    -----------------------
-    # Valores
-    - Responsable
-    - Respetuoso
-    - Amable
-    - Honesto
-    - Perseverante
+    🔵 Valores
+    - Responsable ✋
+    - Respetuoso 🤝
+    - Amable ✨
+    - Honesto 🤍
+    - Perseverante 👾
 
     ---------------------
 
-    # Habilidades
+    🟢 Habilidades
     - Desarrollador Front-end
     
     
